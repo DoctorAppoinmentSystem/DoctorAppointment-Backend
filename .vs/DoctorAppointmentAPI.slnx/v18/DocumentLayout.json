@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pjeev\\HCL Projects\\Doctor-Appointment system\\DoctorAppointment-Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\users\\pjeev\\hcl projects\\doctor-appointment system\\doctorappointment-backend\\.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\users\\pjeev\\hcl projects\\doctor-appointment system\\doctorappointment-backend\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\users\\pjeev\\hcl projects\\doctor-appointment system\\doctorappointment-backend\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\users\\pjeev\\hcl projects\\doctor-appointment system\\doctorappointment-backend\\services\\interfaces\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:services\\interfaces\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\users\\pjeev\\hcl projects\\doctor-appointment system\\doctorappointment-backend\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore.txt",
+              "DocumentMoniker": "C:\\Users\\pjeev\\HCL Projects\\Doctor-Appointment system\\DoctorAppointment-Backend\\.gitignore.txt",
+              "RelativeDocumentMoniker": ".gitignore.txt",
+              "ToolTip": "C:\\Users\\pjeev\\HCL Projects\\Doctor-Appointment system\\DoctorAppointment-Backend\\.gitignore.txt",
+              "RelativeToolTip": ".gitignore.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-04-24T06:48:47.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\pjeev\\HCL Projects\\Doctor-Appointment system\\DoctorAppointment-Backend\\Services\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "Services\\AppointmentService.cs",
+              "ToolTip": "C:\\Users\\pjeev\\HCL Projects\\Doctor-Appointment system\\DoctorAppointment-Backend\\Services\\AppointmentService.cs",
+              "RelativeToolTip": "Services\\AppointmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:47:23.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\pjeev\\HCL Projects\\Doctor-Appointment system\\DoctorAppointment-Backend\\Services\\Interfaces\\IAppointmentService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IAppointmentService.cs",
+              "ToolTip": "C:\\Users\\pjeev\\HCL Projects\\Doctor-Appointment system\\DoctorAppointment-Backend\\Services\\Interfaces\\IAppointmentService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IAppointmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:46:46.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\pjeev\\HCL Projects\\Doctor-Appointment system\\DoctorAppointment-Backend\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\pjeev\\HCL Projects\\Doctor-Appointment system\\DoctorAppointment-Backend\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "Controllers\\PatientController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAUwEUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:46:11.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\pjeev\\HCL Projects\\Doctor-Appointment system\\DoctorAppointment-Backend\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\pjeev\\HCL Projects\\Doctor-Appointment system\\DoctorAppointment-Backend\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:45:22.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
