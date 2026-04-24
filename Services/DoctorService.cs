@@ -1,6 +1,8 @@
-﻿namespace DoctorAppointmentAPI.Services
+﻿using DoctorAppointmentAPI.Services.Interfaces;
+
+namespace DoctorAppointmentAPI.Services
 {
-    public class DoctorService
+    public class DoctorService:IDoctorService
     {
     }
 }

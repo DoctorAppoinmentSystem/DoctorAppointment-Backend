@@ -1,12 +1,503 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\HCL\\DoctorAppointmentAPI\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Hackathon\\DoctorAppointment-Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hackathon\\doctorappointment-backend\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hackathon\\doctorappointment-backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hackathon\\doctorappointment-backend\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hackathon\\doctorappointment-backend\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hackathon\\doctorappointment-backend\\services\\reminderhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:services\\reminderhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hackathon\\doctorappointment-backend\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hackathon\\doctorappointment-backend\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hackathon\\doctorappointment-backend\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hackathon\\doctorappointment-backend\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hackathon\\doctorappointment-backend\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hackathon\\doctorappointment-backend\\models\\applog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:models\\applog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hackathon\\doctorappointment-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hackathon\\doctorappointment-backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hackathon\\doctorappointment-backend\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hackathon\\doctorappointment-backend\\dtos\\doctor\\doctoravailabilitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:dtos\\doctor\\doctoravailabilitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hackathon\\doctorappointment-backend\\dtos\\auth\\registerpatientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:dtos\\auth\\registerpatientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hackathon\\doctorappointment-backend\\dtos\\auth\\registerdoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:dtos\\auth\\registerdoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hackathon\\doctorappointment-backend\\dtos\\appointment\\bookappointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:dtos\\appointment\\bookappointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hackathon\\doctorappointment-backend\\dtos\\appointment\\appointmentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:dtos\\appointment\\appointmentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hackathon\\doctorappointment-backend\\dtos\\admin\\statisticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:dtos\\admin\\statisticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hackathon\\doctorappointment-backend\\dtos\\admin\\dailysummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:dtos\\admin\\dailysummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hackathon\\doctorappointment-backend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hackathon\\doctorappointment-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hackathon\\doctorappointment-backend\\services\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:services\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hackathon\\doctorappointment-backend\\services\\interfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:services\\interfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hackathon\\doctorappointment-backend\\services\\interfaces\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:services\\interfaces\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hackathon\\doctorappointment-backend\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hackathon\\doctorappointment-backend\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Hackathon\\DoctorAppointment-Backend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Hackathon\\DoctorAppointment-Backend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAuwEEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:09:20.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "C:\\Hackathon\\DoctorAppointment-Backend\\Services\\DoctorService.cs",
+              "RelativeDocumentMoniker": "Services\\DoctorService.cs",
+              "ToolTip": "C:\\Hackathon\\DoctorAppointment-Backend\\Services\\DoctorService.cs",
+              "RelativeToolTip": "Services\\DoctorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:22:19.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Hackathon\\DoctorAppointment-Backend\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Services\\EmailService.cs",
+              "ToolTip": "C:\\Hackathon\\DoctorAppointment-Backend\\Services\\EmailService.cs",
+              "RelativeToolTip": "Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:22:30.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReminderHostedService.cs",
+              "DocumentMoniker": "C:\\Hackathon\\DoctorAppointment-Backend\\Services\\ReminderHostedService.cs",
+              "RelativeDocumentMoniker": "Services\\ReminderHostedService.cs",
+              "ToolTip": "C:\\Hackathon\\DoctorAppointment-Backend\\Services\\ReminderHostedService.cs",
+              "RelativeToolTip": "Services\\ReminderHostedService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:22:44.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Hackathon\\DoctorAppointment-Backend\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "Services\\AdminService.cs",
+              "ToolTip": "C:\\Hackathon\\DoctorAppointment-Backend\\Services\\AdminService.cs",
+              "RelativeToolTip": "Services\\AdminService.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAuwJoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:21:38.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Hackathon\\DoctorAppointment-Backend\\DTOs\\Auth\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Auth\\LoginDto.cs",
+              "ToolTip": "C:\\Hackathon\\DoctorAppointment-Backend\\DTOs\\Auth\\LoginDto.cs",
+              "RelativeToolTip": "DTOs\\Auth\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:27:11.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Hackathon\\DoctorAppointment-Backend\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Hackathon\\DoctorAppointment-Backend\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:23:39.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Hackathon\\DoctorAppointment-Backend\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "C:\\Hackathon\\DoctorAppointment-Backend\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:22:08.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "C:\\Hackathon\\DoctorAppointment-Backend\\Services\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "Services\\AppointmentService.cs",
+              "ToolTip": "C:\\Hackathon\\DoctorAppointment-Backend\\Services\\AppointmentService.cs",
+              "RelativeToolTip": "Services\\AppointmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:21:56.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Hackathon\\DoctorAppointment-Backend\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Models\\Doctor.cs",
+              "ToolTip": "C:\\Hackathon\\DoctorAppointment-Backend\\Models\\Doctor.cs",
+              "RelativeToolTip": "Models\\Doctor.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:19:59.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppLog.cs",
+              "DocumentMoniker": "C:\\Hackathon\\DoctorAppointment-Backend\\Models\\AppLog.cs",
+              "RelativeDocumentMoniker": "Models\\AppLog.cs",
+              "ToolTip": "C:\\Hackathon\\DoctorAppointment-Backend\\Models\\AppLog.cs",
+              "RelativeToolTip": "Models\\AppLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:19:20.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Hackathon\\DoctorAppointment-Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Hackathon\\DoctorAppointment-Backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:24:34.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Hackathon\\DoctorAppointment-Backend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Hackathon\\DoctorAppointment-Backend\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:20:47.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterPatientDto.cs",
+              "DocumentMoniker": "C:\\Hackathon\\DoctorAppointment-Backend\\DTOs\\Auth\\RegisterPatientDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Auth\\RegisterPatientDto.cs",
+              "ToolTip": "C:\\Hackathon\\DoctorAppointment-Backend\\DTOs\\Auth\\RegisterPatientDto.cs",
+              "RelativeToolTip": "DTOs\\Auth\\RegisterPatientDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:27:26.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DoctorAvailabilityDto.cs",
+              "DocumentMoniker": "C:\\Hackathon\\DoctorAppointment-Backend\\DTOs\\Doctor\\DoctorAvailabilityDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Doctor\\DoctorAvailabilityDto.cs",
+              "ToolTip": "C:\\Hackathon\\DoctorAppointment-Backend\\DTOs\\Doctor\\DoctorAvailabilityDto.cs",
+              "RelativeToolTip": "DTOs\\Doctor\\DoctorAvailabilityDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:27:36.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Hackathon\\DoctorAppointment-Backend\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "Models\\Appointment.cs",
+              "ToolTip": "C:\\Hackathon\\DoctorAppointment-Backend\\Models\\Appointment.cs",
+              "RelativeToolTip": "Models\\Appointment.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:19:35.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterDoctorDto.cs",
+              "DocumentMoniker": "C:\\Hackathon\\DoctorAppointment-Backend\\DTOs\\Auth\\RegisterDoctorDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Auth\\RegisterDoctorDto.cs",
+              "ToolTip": "C:\\Hackathon\\DoctorAppointment-Backend\\DTOs\\Auth\\RegisterDoctorDto.cs",
+              "RelativeToolTip": "DTOs\\Auth\\RegisterDoctorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:27:18.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookAppointmentDto.cs",
+              "DocumentMoniker": "C:\\Hackathon\\DoctorAppointment-Backend\\DTOs\\Appointment\\BookAppointmentDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Appointment\\BookAppointmentDto.cs",
+              "ToolTip": "C:\\Hackathon\\DoctorAppointment-Backend\\DTOs\\Appointment\\BookAppointmentDto.cs",
+              "RelativeToolTip": "DTOs\\Appointment\\BookAppointmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:27:00.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppointmentResponseDto.cs",
+              "DocumentMoniker": "C:\\Hackathon\\DoctorAppointment-Backend\\DTOs\\Appointment\\AppointmentResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Appointment\\AppointmentResponseDto.cs",
+              "ToolTip": "C:\\Hackathon\\DoctorAppointment-Backend\\DTOs\\Appointment\\AppointmentResponseDto.cs",
+              "RelativeToolTip": "DTOs\\Appointment\\AppointmentResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:26:52.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StatisticsDto.cs",
+              "DocumentMoniker": "C:\\Hackathon\\DoctorAppointment-Backend\\DTOs\\Admin\\StatisticsDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Admin\\StatisticsDto.cs",
+              "ToolTip": "C:\\Hackathon\\DoctorAppointment-Backend\\DTOs\\Admin\\StatisticsDto.cs",
+              "RelativeToolTip": "DTOs\\Admin\\StatisticsDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:26:41.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DailySummaryDto.cs",
+              "DocumentMoniker": "C:\\Hackathon\\DoctorAppointment-Backend\\DTOs\\Admin\\DailySummaryDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Admin\\DailySummaryDto.cs",
+              "ToolTip": "C:\\Hackathon\\DoctorAppointment-Backend\\DTOs\\Admin\\DailySummaryDto.cs",
+              "RelativeToolTip": "DTOs\\Admin\\DailySummaryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:26:04.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Hackathon\\DoctorAppointment-Backend\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Hackathon\\DoctorAppointment-Backend\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:25:43.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Hackathon\\DoctorAppointment-Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Hackathon\\DoctorAppointment-Backend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-24T05:24:47.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Hackathon\\DoctorAppointment-Backend\\Services\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IEmailService.cs",
+              "ToolTip": "C:\\Hackathon\\DoctorAppointment-Backend\\Services\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:24:13.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IDoctorService.cs",
+              "DocumentMoniker": "C:\\Hackathon\\DoctorAppointment-Backend\\Services\\Interfaces\\IDoctorService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IDoctorService.cs",
+              "ToolTip": "C:\\Hackathon\\DoctorAppointment-Backend\\Services\\Interfaces\\IDoctorService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IDoctorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:23:56.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IAppointmentService.cs",
+              "DocumentMoniker": "C:\\Hackathon\\DoctorAppointment-Backend\\Services\\Interfaces\\IAppointmentService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IAppointmentService.cs",
+              "ToolTip": "C:\\Hackathon\\DoctorAppointment-Backend\\Services\\Interfaces\\IAppointmentService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IAppointmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:23:24.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RequestLoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Hackathon\\DoctorAppointment-Backend\\Middleware\\RequestLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\RequestLoggingMiddleware.cs",
+              "ToolTip": "C:\\Hackathon\\DoctorAppointment-Backend\\Middleware\\RequestLoggingMiddleware.cs",
+              "RelativeToolTip": "Middleware\\RequestLoggingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:18:06.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Hackathon\\DoctorAppointment-Backend\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Hackathon\\DoctorAppointment-Backend\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:17:51.36Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1506,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,9 @@
+C:\Hackathon\DoctorAppointment-Backend\obj\Debug\net9.0\DoctorAppointmentAPI.csproj.AssemblyReference.cache
+C:\Hackathon\DoctorAppointment-Backend\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Hackathon\DoctorAppointment-Backend\obj\Debug\net9.0\DoctorAppointmentAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hackathon\DoctorAppointment-Backend\obj\Debug\net9.0\DoctorAppointmentAPI.AssemblyInfoInputs.cache
+C:\Hackathon\DoctorAppointment-Backend\obj\Debug\net9.0\DoctorAppointmentAPI.AssemblyInfo.cs
+C:\Hackathon\DoctorAppointment-Backend\obj\Debug\net9.0\DoctorAppointmentAPI.csproj.CoreCompileInputs.cache
+C:\Hackathon\DoctorAppointment-Backend\obj\Debug\net9.0\DoctorAppointmentAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Hackathon\DoctorAppointment-Backend\obj\Debug\net9.0\DoctorAppointmentAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Hackathon\DoctorAppointment-Backend\obj\Debug\net9.0\DoctorAppointmentAPI.sourcelink.json

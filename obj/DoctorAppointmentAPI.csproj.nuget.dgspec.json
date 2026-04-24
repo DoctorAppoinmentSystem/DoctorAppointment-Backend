@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\HCL\\DoctorAppointmentAPI\\DoctorAppointmentAPI.csproj": {}
+    "C:\\Hackathon\\DoctorAppointment-Backend\\DoctorAppointmentAPI.csproj": {}
   },
   "projects": {
-    "C:\\HCL\\DoctorAppointmentAPI\\DoctorAppointmentAPI.csproj": {
+    "C:\\Hackathon\\DoctorAppointment-Backend\\DoctorAppointmentAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\HCL\\DoctorAppointmentAPI\\DoctorAppointmentAPI.csproj",
+        "projectUniqueName": "C:\\Hackathon\\DoctorAppointment-Backend\\DoctorAppointmentAPI.csproj",
         "projectName": "DoctorAppointmentAPI",
-        "projectPath": "C:\\HCL\\DoctorAppointmentAPI\\DoctorAppointmentAPI.csproj",
-        "packagesPath": "C:\\Users\\ELCOT\\.nuget\\packages\\",
-        "outputPath": "C:\\HCL\\DoctorAppointmentAPI\\obj\\",
+        "projectPath": "C:\\Hackathon\\DoctorAppointment-Backend\\DoctorAppointmentAPI.csproj",
+        "packagesPath": "C:\\Users\\Munish\\.nuget\\packages\\",
+        "outputPath": "C:\\Hackathon\\DoctorAppointment-Backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ELCOT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Munish\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -128,7 +128,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300-preview.0.26177.108/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
