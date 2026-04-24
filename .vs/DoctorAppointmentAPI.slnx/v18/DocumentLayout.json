@@ -3,132 +3,136 @@
   "WorkspaceRootPath": "C:\\HCL\\DoctorAppointmentAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\services\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:services\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\models\\specialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|solutionrelative:models\\specialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\services\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:services\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|solutionrelative:models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\models\\specialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:models\\specialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|solutionrelative:models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|solutionrelative:models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|solutionrelative:models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\models\\applog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|solutionrelative:models\\applog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\services\\interfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:services\\interfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\dtos\\doctor\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|solutionrelative:dtos\\doctor\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\dtos\\doctor\\doctoravailabilitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|solutionrelative:dtos\\doctor\\doctoravailabilitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\dtos\\auth\\registerpatientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|solutionrelative:dtos\\auth\\registerpatientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\models\\applog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:models\\applog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\dtos\\auth\\registerdoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|solutionrelative:dtos\\auth\\registerdoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|solutionrelative:dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\dtos\\appointment\\bookappointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|solutionrelative:dtos\\appointment\\bookappointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\dtos\\appointment\\appointmentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|solutionrelative:dtos\\appointment\\appointmentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\dtos\\doctor\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:dtos\\doctor\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\dtos\\admin\\statisticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|solutionrelative:dtos\\admin\\statisticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\dtos\\doctor\\doctoravailabilitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:dtos\\doctor\\doctoravailabilitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\dtos\\admin\\dailysummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|solutionrelative:dtos\\admin\\dailysummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\dtos\\auth\\registerpatientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:dtos\\auth\\registerpatientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\dtos\\auth\\registerdoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:dtos\\auth\\registerdoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\dtos\\appointment\\bookappointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:dtos\\appointment\\bookappointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\services\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|solutionrelative:services\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\dtos\\appointment\\appointmentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:dtos\\appointment\\appointmentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\services\\interfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|solutionrelative:services\\interfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\dtos\\admin\\statisticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:dtos\\admin\\statisticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|solutionrelative:services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\dtos\\admin\\dailysummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:dtos\\admin\\dailysummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\services\\interfaces\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|solutionrelative:services\\interfaces\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\services\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|solutionrelative:services\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\services\\reminderhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|solutionrelative:services\\reminderhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|solutionrelative:services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|solutionrelative:services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\services\\interfaces\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:services\\interfaces\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\services\\reminderhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:services\\reminderhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|solutionrelative:services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|solutionrelative:services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|solutionrelative:middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C24DC73D-5DB1-46C5-A4F3-F0F909E25301}|DoctorAppointmentAPI.csproj|solutionrelative:middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|c:\\hcl\\doctorappointmentapi\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88ECAEC-2B38-BADB-542B-6C350EFC8A2F}|DoctorAppointmentAPI.csproj|solutionrelative:middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -138,375 +142,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppLog.cs",
-              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\Models\\AppLog.cs",
-              "RelativeDocumentMoniker": "Models\\AppLog.cs",
-              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\Models\\AppLog.cs",
-              "RelativeToolTip": "Models\\AppLog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T05:19:20.906Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Appointment.cs",
-              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\Models\\Appointment.cs",
-              "RelativeDocumentMoniker": "Models\\Appointment.cs",
-              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\Models\\Appointment.cs",
-              "RelativeToolTip": "Models\\Appointment.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T05:19:35.683Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Doctor.cs",
-              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\Models\\Doctor.cs",
-              "RelativeDocumentMoniker": "Models\\Doctor.cs",
-              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\Models\\Doctor.cs",
-              "RelativeToolTip": "Models\\Doctor.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA4wC8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T05:19:59.898Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Patient.cs",
-              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\Models\\Patient.cs",
-              "RelativeDocumentMoniker": "Models\\Patient.cs",
-              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\Models\\Patient.cs",
-              "RelativeToolTip": "Models\\Patient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T05:20:11.98Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Session.cs",
-              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\Models\\Session.cs",
-              "RelativeDocumentMoniker": "Models\\Session.cs",
-              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\Models\\Session.cs",
-              "RelativeToolTip": "Models\\Session.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T05:20:23.622Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Specialization.cs",
-              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\Models\\Specialization.cs",
-              "RelativeDocumentMoniker": "Models\\Specialization.cs",
-              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\Models\\Specialization.cs",
-              "RelativeToolTip": "Models\\Specialization.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T05:20:36.055Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T05:20:47.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DoctorDto.cs",
-              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\DTOs\\Doctor\\DoctorDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\Doctor\\DoctorDto.cs",
-              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\DTOs\\Doctor\\DoctorDto.cs",
-              "RelativeToolTip": "DTOs\\Doctor\\DoctorDto.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAmwCoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T05:27:47.102Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DoctorAvailabilityDto.cs",
-              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\DTOs\\Doctor\\DoctorAvailabilityDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\Doctor\\DoctorAvailabilityDto.cs",
-              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\DTOs\\Doctor\\DoctorAvailabilityDto.cs",
-              "RelativeToolTip": "DTOs\\Doctor\\DoctorAvailabilityDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T05:27:36.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RegisterPatientDto.cs",
-              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\DTOs\\Auth\\RegisterPatientDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\Auth\\RegisterPatientDto.cs",
-              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\DTOs\\Auth\\RegisterPatientDto.cs",
-              "RelativeToolTip": "DTOs\\Auth\\RegisterPatientDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T05:27:26.264Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RegisterDoctorDto.cs",
-              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\DTOs\\Auth\\RegisterDoctorDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\Auth\\RegisterDoctorDto.cs",
-              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\DTOs\\Auth\\RegisterDoctorDto.cs",
-              "RelativeToolTip": "DTOs\\Auth\\RegisterDoctorDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T05:27:18.544Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "LoginDto.cs",
-              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\DTOs\\Auth\\LoginDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\Auth\\LoginDto.cs",
-              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\DTOs\\Auth\\LoginDto.cs",
-              "RelativeToolTip": "DTOs\\Auth\\LoginDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T05:27:11.755Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BookAppointmentDto.cs",
-              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\DTOs\\Appointment\\BookAppointmentDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\Appointment\\BookAppointmentDto.cs",
-              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\DTOs\\Appointment\\BookAppointmentDto.cs",
-              "RelativeToolTip": "DTOs\\Appointment\\BookAppointmentDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T05:27:00.037Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AppointmentResponseDto.cs",
-              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\DTOs\\Appointment\\AppointmentResponseDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\Appointment\\AppointmentResponseDto.cs",
-              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\DTOs\\Appointment\\AppointmentResponseDto.cs",
-              "RelativeToolTip": "DTOs\\Appointment\\AppointmentResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T05:26:52.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "StatisticsDto.cs",
-              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\DTOs\\Admin\\StatisticsDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\Admin\\StatisticsDto.cs",
-              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\DTOs\\Admin\\StatisticsDto.cs",
-              "RelativeToolTip": "DTOs\\Admin\\StatisticsDto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAmwCQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T05:26:41.028Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DailySummaryDto.cs",
-              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\DTOs\\Admin\\DailySummaryDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\Admin\\DailySummaryDto.cs",
-              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\DTOs\\Admin\\DailySummaryDto.cs",
-              "RelativeToolTip": "DTOs\\Admin\\DailySummaryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T05:26:04.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAmwDEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T05:25:43.83Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-24T05:24:47.189Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAmwHsAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T05:24:34.84Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IEmailService.cs",
-              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\Services\\Interfaces\\IEmailService.cs",
-              "RelativeDocumentMoniker": "Services\\Interfaces\\IEmailService.cs",
-              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\Services\\Interfaces\\IEmailService.cs",
-              "RelativeToolTip": "Services\\Interfaces\\IEmailService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T05:24:13.402Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IDoctorService.cs",
-              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\Services\\Interfaces\\IDoctorService.cs",
-              "RelativeDocumentMoniker": "Services\\Interfaces\\IDoctorService.cs",
-              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\Services\\Interfaces\\IDoctorService.cs",
-              "RelativeToolTip": "Services\\Interfaces\\IDoctorService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T05:23:56.069Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\Services\\Interfaces\\IAuthService.cs",
-              "RelativeDocumentMoniker": "Services\\Interfaces\\IAuthService.cs",
-              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\Services\\Interfaces\\IAuthService.cs",
-              "RelativeToolTip": "Services\\Interfaces\\IAuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T05:23:39.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "IAppointmentService.cs",
-              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\Services\\Interfaces\\IAppointmentService.cs",
-              "RelativeDocumentMoniker": "Services\\Interfaces\\IAppointmentService.cs",
-              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\Services\\Interfaces\\IAppointmentService.cs",
-              "RelativeToolTip": "Services\\Interfaces\\IAppointmentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T05:23:24.691Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
               "Title": "IAdminService.cs",
               "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\Services\\Interfaces\\IAdminService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IAdminService.cs",
               "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\Services\\Interfaces\\IAdminService.cs",
               "RelativeToolTip": "Services\\Interfaces\\IAdminService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-24T05:23:03.051Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ReminderHostedService.cs",
-              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\Services\\ReminderHostedService.cs",
-              "RelativeDocumentMoniker": "Services\\ReminderHostedService.cs",
-              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\Services\\ReminderHostedService.cs",
-              "RelativeToolTip": "Services\\ReminderHostedService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T05:22:44.771Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "EmailService.cs",
-              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\Services\\EmailService.cs",
-              "RelativeDocumentMoniker": "Services\\EmailService.cs",
-              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\Services\\EmailService.cs",
-              "RelativeToolTip": "Services\\EmailService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T05:22:30.948Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "DoctorService.cs",
-              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\Services\\DoctorService.cs",
-              "RelativeDocumentMoniker": "Services\\DoctorService.cs",
-              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\Services\\DoctorService.cs",
-              "RelativeToolTip": "Services\\DoctorService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T05:22:19.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\Services\\AuthService.cs",
-              "RelativeDocumentMoniker": "Services\\AuthService.cs",
-              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\Services\\AuthService.cs",
-              "RelativeToolTip": "Services\\AuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T05:22:08.136Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 4,
               "Title": "AppointmentService.cs",
               "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\Services\\AppointmentService.cs",
               "RelativeDocumentMoniker": "Services\\AppointmentService.cs",
@@ -519,16 +172,358 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 3,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Models\\Doctor.cs",
+              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\Models\\Doctor.cs",
+              "RelativeToolTip": "Models\\Doctor.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:19:59.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Specialization.cs",
+              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\Models\\Specialization.cs",
+              "RelativeDocumentMoniker": "Models\\Specialization.cs",
+              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\Models\\Specialization.cs",
+              "RelativeToolTip": "Models\\Specialization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:20:36.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\Services\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IEmailService.cs",
+              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\Services\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:24:13.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "AdminService.cs",
               "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\Services\\AdminService.cs",
               "RelativeDocumentMoniker": "Services\\AdminService.cs",
               "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\Services\\AdminService.cs",
               "RelativeToolTip": "Services\\AdminService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-24T05:21:38.979Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDoctorService.cs",
+              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\Services\\Interfaces\\IDoctorService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IDoctorService.cs",
+              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\Services\\Interfaces\\IDoctorService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IDoctorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:23:56.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAUwKMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:03:04.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\Models\\Session.cs",
+              "RelativeDocumentMoniker": "Models\\Session.cs",
+              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\Models\\Session.cs",
+              "RelativeToolTip": "Models\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:20:23.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "Models\\Patient.cs",
+              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\Models\\Patient.cs",
+              "RelativeToolTip": "Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:20:11.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "Models\\Appointment.cs",
+              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\Models\\Appointment.cs",
+              "RelativeToolTip": "Models\\Appointment.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:19:35.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppLog.cs",
+              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\Models\\AppLog.cs",
+              "RelativeDocumentMoniker": "Models\\AppLog.cs",
+              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\Models\\AppLog.cs",
+              "RelativeToolTip": "Models\\AppLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:19:20.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:20:47.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DoctorDto.cs",
+              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\DTOs\\Doctor\\DoctorDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Doctor\\DoctorDto.cs",
+              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\DTOs\\Doctor\\DoctorDto.cs",
+              "RelativeToolTip": "DTOs\\Doctor\\DoctorDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:27:47.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DoctorAvailabilityDto.cs",
+              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\DTOs\\Doctor\\DoctorAvailabilityDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Doctor\\DoctorAvailabilityDto.cs",
+              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\DTOs\\Doctor\\DoctorAvailabilityDto.cs",
+              "RelativeToolTip": "DTOs\\Doctor\\DoctorAvailabilityDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:27:36.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterPatientDto.cs",
+              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\DTOs\\Auth\\RegisterPatientDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Auth\\RegisterPatientDto.cs",
+              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\DTOs\\Auth\\RegisterPatientDto.cs",
+              "RelativeToolTip": "DTOs\\Auth\\RegisterPatientDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:27:26.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterDoctorDto.cs",
+              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\DTOs\\Auth\\RegisterDoctorDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Auth\\RegisterDoctorDto.cs",
+              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\DTOs\\Auth\\RegisterDoctorDto.cs",
+              "RelativeToolTip": "DTOs\\Auth\\RegisterDoctorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:27:18.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\DTOs\\Auth\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Auth\\LoginDto.cs",
+              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\DTOs\\Auth\\LoginDto.cs",
+              "RelativeToolTip": "DTOs\\Auth\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:27:11.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BookAppointmentDto.cs",
+              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\DTOs\\Appointment\\BookAppointmentDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Appointment\\BookAppointmentDto.cs",
+              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\DTOs\\Appointment\\BookAppointmentDto.cs",
+              "RelativeToolTip": "DTOs\\Appointment\\BookAppointmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:27:00.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppointmentResponseDto.cs",
+              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\DTOs\\Appointment\\AppointmentResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Appointment\\AppointmentResponseDto.cs",
+              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\DTOs\\Appointment\\AppointmentResponseDto.cs",
+              "RelativeToolTip": "DTOs\\Appointment\\AppointmentResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:26:52.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StatisticsDto.cs",
+              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\DTOs\\Admin\\StatisticsDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Admin\\StatisticsDto.cs",
+              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\DTOs\\Admin\\StatisticsDto.cs",
+              "RelativeToolTip": "DTOs\\Admin\\StatisticsDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:26:41.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DailySummaryDto.cs",
+              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\DTOs\\Admin\\DailySummaryDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Admin\\DailySummaryDto.cs",
+              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\DTOs\\Admin\\DailySummaryDto.cs",
+              "RelativeToolTip": "DTOs\\Admin\\DailySummaryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:26:04.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:25:43.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-24T05:24:47.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAmwHsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:24:34.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:23:39.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IAppointmentService.cs",
+              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\Services\\Interfaces\\IAppointmentService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IAppointmentService.cs",
+              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\Services\\Interfaces\\IAppointmentService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IAppointmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:23:24.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ReminderHostedService.cs",
+              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\Services\\ReminderHostedService.cs",
+              "RelativeDocumentMoniker": "Services\\ReminderHostedService.cs",
+              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\Services\\ReminderHostedService.cs",
+              "RelativeToolTip": "Services\\ReminderHostedService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:22:44.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Services\\EmailService.cs",
+              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\Services\\EmailService.cs",
+              "RelativeToolTip": "Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:22:30.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\Services\\DoctorService.cs",
+              "RelativeDocumentMoniker": "Services\\DoctorService.cs",
+              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\Services\\DoctorService.cs",
+              "RelativeToolTip": "Services\\DoctorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:22:19.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "C:\\HCL\\DoctorAppointmentAPI\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:22:08.136Z"
             },
             {
               "$type": "Document",
@@ -540,12 +535,11 @@
               "RelativeToolTip": "Middleware\\RequestLoggingMiddleware.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T05:18:06.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T05:18:06.019Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "ExceptionMiddleware.cs",
               "DocumentMoniker": "C:\\HCL\\DoctorAppointmentAPI\\Middleware\\ExceptionMiddleware.cs",
               "RelativeDocumentMoniker": "Middleware\\ExceptionMiddleware.cs",
@@ -553,8 +547,7 @@
               "RelativeToolTip": "Middleware\\ExceptionMiddleware.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAmwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T05:17:51.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T05:17:51.36Z"
             }
           ]
         }
